@@ -1,0 +1,4 @@
+xilconimage.json = nikkaimage.json
+xilconsticker.json = nikkasticker.json
+xilconimage.json = nikkaimage.json
+xilconimage.json = nikkaimage.json
